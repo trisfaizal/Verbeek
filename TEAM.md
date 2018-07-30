@@ -37,6 +37,7 @@
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
 - [Umul Sidikoh](https://github.com/umulsidikoh)
+- [Tri SF](https://github.com/trisfaizal)
 
 ## Jaminan Kualitas
 - [M. Dzulkifli](https://github.com/mdzulkifli) (Koordinator)
